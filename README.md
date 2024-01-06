@@ -6,8 +6,8 @@
 > - **데이터**: 결제 데이터 159,328개 (1인 중복결제, 프로모션 결제 포함)
 > - **기간**: 23.05.09 ~ 23.05.16
 > - **결과** 
-> > <p align="center"><img src="assets/EDAresult.jpg" width="680"></p> 
-> > 
+> <p align="center"><img src="assets/EDAresult.jpg" width="720"></p> 
+> 
 
 ---
 > [!Abstract] 안녕하세요 9조입니다.
