@@ -1,21 +1,20 @@
-# 온라인 교육기업 결제 데이터 분석
+# 온라인 교육기업 결제 데이터 분석 (EDA프로젝트)
 
 **Team Members**: 김다현, 남선우, 변웅진, 안효석, 이진우, 최준용
 
-## **프로젝트 설명**
+## **프로젝트 개요**
 
-> - **프로젝트 목표**: 2022년 1년간 온라인기업의 강의 결제데이터를 분석, 인사이트 도출
-> - **데이터**: 결제 데이터 159,328개 (1인 중복결제, 프로모션 결제 포함)
-> - **기간**: 23.05.09 ~ 23.05.16
-> - **결과**:
->
+- **프로젝트 목표**: 2022년 1년간 온라인기업의 강의 결제데이터를 분석, 인사이트 도출
+- **데이터**: 결제 데이터 159,328개 (1인 중복결제, 프로모션 결제 포함)
+- **기간**: 23.05.09 ~ 23.05.16
+- **결과**:
 > <p align="center"><img src="assets/result.jpg" width="840"></p>
 >
 > - 참고: 김용담강사는 발표회 당일 부재로 발표채점 생략
 
-### Tech Skills
+## 프로젝트 기술스택
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-6ebafe.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Altair](https://img.shields.io/badge/Altair-%23d9ead3.svg?style=for-the-badge&logo=Altair&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ffe74a.svg?style=flat&logo=Python&logoColor=blue) ![Jupyter](https://img.shields.io/badge/jupyter-F37627.svg?style=flat&logo=jupyter&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-4d77cf.svg?style=flat&logo=NumPy&logoColor=4dabcf) ![Pandas](https://img.shields.io/badge/Pandas-130654.svg?style=flat&logo=Pandas&logoColor=whitle) ![colab](https://img.shields.io/badge/Google%20Colab-white.svg?style=flat&logo=Google%20Colab&logoColor=F9AA00) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C.svg?style=flat&logo=Matplotlib&logoColor=white) ![Altair](https://img.shields.io/badge/Vega%20Altair-fbc234.svg?style=flat&logo=Vega%20Altair&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-262626.svg?style=flat&logo=Plotly&logoColor=white) 
 
 ---
 
